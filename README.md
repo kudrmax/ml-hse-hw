@@ -11,7 +11,7 @@
 ### ДЗ-1. Первый датасет
 
 - Датасет: [Car Classification Dataset](https://www.kaggle.com/datasets/stealthtechnologies/car-evaluation-classification)
-- [Открыть ноутбук с решением](solution1.ipynb)
+- [Открыть ноутбук с решением](hw1/solution1.ipynb)
 
 #### Вывод
 
@@ -27,7 +27,7 @@
 ### ДЗ-1. Второй датасет
 
 - Датасет: Spam Email classification (источник утерян, датасет был дан на каком-то старом тестовом задании)
-- [Открыть ноутбук с решением](solution2.ipynb)
+- [Открыть ноутбук с решением](hw1/solution2.ipynb)
 
 #### Вывод
 
@@ -44,7 +44,7 @@
 ### ДЗ-2. 
 
 - Датасет: [Default of Credit Card Clients Data Set](https://code.datasciencedojo.com/datasciencedojo/datasets/tree/master/Default%20of%20Credit%20Card%20Clients)
-- [Открыть ноутбук с решением](solution2.ipynb)
+- [Открыть ноутбук с решением](hw2/solution.ipynb)
 
 #### Вывод
 
